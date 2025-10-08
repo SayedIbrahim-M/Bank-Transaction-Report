@@ -1,10 +1,10 @@
 # 🏦 Bank Transaction Report – Power BI Dashboard
 
-## ✅ Screenshots
+## ✅ Screenshot
 
 ### **Dashboard Overview**
 
-![Dashboard Overview](Dashboard 1.png)
+![Dashboard Overview](Dashboard1.png)
 
 ---
 
